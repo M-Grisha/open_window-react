@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/open_window-react/static/css/main.da124373.css",
+    "main.js": "/open_window-react/static/js/main.761b9b30.js",
+    "index.html": "/open_window-react/index.html",
+    "main.da124373.css.map": "/open_window-react/static/css/main.da124373.css.map",
+    "main.761b9b30.js.map": "/open_window-react/static/js/main.761b9b30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da124373.css",
+    "static/js/main.761b9b30.js"
+  ]
+}
